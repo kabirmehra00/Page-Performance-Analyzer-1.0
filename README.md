@@ -27,3 +27,11 @@ Page Performance Analyzer is a Chrome extension that analyzes the performance of
 5. **The extension is now installed and ready to use.**
 
 ---
+
+## Visual Overview
+
+![1](https://github.com/user-attachments/assets/6c2368f7-fca2-46b8-b533-05e1c96fd8e5)
+
+
+
+
